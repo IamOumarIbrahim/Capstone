@@ -8,3 +8,29 @@
 | MOHAMED AHMED SAAD KHAFAGY | U20101649 |
 
 - **Supervisor:** Dr. Mohamad Khairi Bin Ishak
+
+### System features grouped by implementation status (Required, Desired, Future)
+
+| Status | Title |
+| --- | --- |
+| Required | Deployment on Raspberry Pi 5 |
+| Required | Speaker and LED bar alert |
+| Required | 1080p 30 FPS RGB camera |
+| Required | Object detection model |
+| Required | Internal logging |
+| Required | Temporal filtering (EMA) |
+| Desired | Camera-blind check |
+| Desired | Model pruning and quantization |
+| Desired | Subject-disjoint dataset collection |
+| Desired | Hard-negative dataset |
+| Desired | Class-specific alerting |
+| Desired | Driver-centered crop tracking |
+| Desired | New-driver calibration |
+| Desired | Eye closure and microsleep alert |
+| Desired | Power-cut-safe logging |
+| Desired | Dashboard and cloud sync |
+| Future | Multi-modal fusion |
+| Future | Robustness study |
+| Future | Multiple camera feed |
+| Future | Steering wheel vibration |
+| Future | Delete-my-data setting |
